@@ -1,0 +1,2 @@
+# permet de ne pas montrer sur git ce qu'il contient
+.env
